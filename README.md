@@ -13,6 +13,7 @@ FEATURES:
 
 - TECH, Lots of TECH. No Magic, just TECH... and Super Powers of course. Maybe a little genome editing...
 - LOTS of custom world generation - Exploration is a must! Dungeons and Loot galore! Even maybe the Central Spire of Atlantis or even a Seedship to find for the Stargate Fans.
+- Once you're done exploring, take to the stars either by Rocket or Starship - then return by Stargate! Explore the Galaxy...
 - LOTS of weird and wonderful Mods: Lucraft, Heroes Expansion, Woot, Waystones & Stargate Network to list some
 - Birds Foods instead of Pam's Harvestcraft - same idea, except no world gen [such as Berry Gardens, Apple Trees, etc] and the lag that comes with such world gen on weaker pc/laptops...
 
@@ -20,7 +21,7 @@ TIP: Speaking of Stargate Network. If your Gate has SKY ACCESS during a THUNDERS
 
 KAKUSEI QUESTBOOK (BEING ACTIVELY UPDATED!)
 
-https://github.com/DartisXUI/Kakusei-2-for-MultiMC/blob/0f15a7b04921f7b63a0a26a6f78164a95e482a6c/%5BDartis-Craft%5D%20Kakusei%20%5BQuestbook%5D.docx
+https://github.com/DartisXUI/-Dartis-Craft-Kakusei-Curseforge/blob/00a960e09f71417e18fd8ef63bf641eaf42167bd/%5BDartis-Craft%5D%20Kakusei%20%5BQuestbook%5D.docx
 
 QUESTBOOK NOTES:
 
