@@ -21,11 +21,11 @@ TIP: Speaking of Stargate Network. If your Gate has SKY ACCESS during a THUNDERS
 
 KAKUSEI QUESTBOOK (AKA: The Wiki; Being Actively Updated)
 
-https://github.com/DartisXUI/-Dartis-Craft-Kakusei-Curseforge/blob/00a960e09f71417e18fd8ef63bf641eaf42167bd/%5BDartis-Craft%5D%20Kakusei%20%5BQuestbook%5D.docx
+https://docs.google.com/document/d/1kG0kBu51vbRV1jL6dQi3rOx3RsbCVgwzF_zxUj3e3zg/edit?usp=share_link
 
 QUESTBOOK NOTES:
 
-- DOCX Format.
-- Goal is for a chronological, step by step explaination of each mod and when you should attempt it [the chronological nature is out at the moment].
+- Google Doc Format.
+- Goal is for a chronological, step by step explaination of each mod and when you should attempt it [the chronological nature is being checked at the moment].
 - Questbook was written from a Vanilla Player's Perspective, sorry if it's a little too detailed, but my Test Players needed this [eg: Starts with the differences between Vanilla and Modded (JEI & JourneyMap Explaintions and such) ].
 - It is written as a guide on each Mod in the Pack as well as the timing/order I felt the Player should attempt achieving each Questbook Entry.
