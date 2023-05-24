@@ -19,7 +19,7 @@ FEATURES:
 
 TIP: Speaking of Stargate Network. If your Gate has SKY ACCESS during a THUNDERSTORM, dial it! There's a 5% chance the Gate will be dramatically redirected, Maybe into a Hidden "Ancient Repostiry Cavern"! [the loot!...].
 
-KAKUSEI QUESTBOOK (BEING ACTIVELY UPDATED!)
+KAKUSEI QUESTBOOK (AKA: The Wiki; Being Actively Updated)
 
 https://github.com/DartisXUI/-Dartis-Craft-Kakusei-Curseforge/blob/00a960e09f71417e18fd8ef63bf641eaf42167bd/%5BDartis-Craft%5D%20Kakusei%20%5BQuestbook%5D.docx
 
